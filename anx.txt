@@ -1,0 +1,161 @@
+
+<html>
+<head>
+<title>
+The Vampire Diaries
+</title>
+<!--title end-->
+<style>
+body{background-color:#000000; background-image:2.jpg;border:1px red; border-style:dotted solid double;}
+#main-page{border:1px solid black; border-radius:10px; width:900px; height:150px; margin:10px auto ;font-family:Vivaldi ;margin:20px auto}
+h1{font-family:Vivaldi;color:#FF2A00;font-size:60}
+img{margin-left:55px}
+p1{color:#FF2A00;font-family:Vivaldi;margin-left:20px; margin-top:40px; margin-right:40px}
+h2{font-family:Vivaldi;color:#FF2A00;font-size:70}
+h3{font-family:Vivaldi;color:#FF2A00;font-size:70}
+h4{font-family:Harlow Solid Italic;color:#FFFFAA;font-size:50}
+img{margin-right:20px;border-color:2px solid white}
+#menu ul{list-style:none ;border:2px solid white; border-radius:10px; border-style:dotted solid double;
+ width:700px; height:100px; margin-left:60px;margin-bottom:2PX;margin-top:2px;}
+ #menu ul li{background-color:#C3C3C3;text-align:center;margin-top:20px;float:left}
+ #menu ul li:hover{background-color:gray}
+ #menu ul ul{display:none;margin:-20px auto;float:bottom}
+ #menu ul li:hover > ul{display:block;}
+ 
+</style>
+<!--style end-->
+</head>
+<!--head end-->
+<body>
+<form style="font-family:times new roman;color:gray;font-size:20PX; MARGIN-TOP:10PX; MARGIN-RIGHT:5PX" ALIGN="RIGHT">
+SEARCH:
+<input type="text" name="SEARCH" ><br>
+
+</FORM>
+<div id="main-page">
+<h1 align="center">
+The Vampire Diaries
+</h1>
+</div>
+
+
+<div id="menu" align="center">
+<ul >
+<li STYLE="font-family:Vivaldi;color:red;font-size:40px;border:1px solid gray;border-radius:10px; width:130" align="left"><a>Home</a></li>
+<li STYLE="font-family:Vivaldi;color:red;font-size:40px;border:1px solid gray;border-radius:10px; width:130;
+margin-bottom:100px" align="left"><a>series</a></li>
+<li STYLE="font-family:Vivaldi;color:red;font-size:40px;border:1px solid gray;border-radius:10px; width:130" align="left">
+<a>characters:
+<select>
+<option> DAMON SALVATORE</option>
+<option> STEFAN SALVATORE</option>
+<option> ELENA GILBIRT</option>
+<option> JERMY GILBIRT</option>
+<option> CAROLINE FORBES</option>
+<option> BONNIE BENETT</option>
+<option> TAYLOR LOCKWORD</option>
+<option> ALARIC SALTZMAN</option>
+<option> JENNA</option>
+<option> REBBAK</option>
+<option> ELIJAH</option>
+<option> FREYA</option>
+</select></a></li>
+<li STYLE="font-family:Vivaldi;color:red;font-size:40px;border:1px solid gray;border-radius:10px; width:130" align="left;">
+<a>seasons</a>
+<ul style="float:downward">
+<li><a>season 1</a></li>
+<li><a>season 2</a></li>
+<li><a>season 3</a></li>
+<li><a>season 4</a></li>
+<li><a>season 5</a></li>
+<li><a>season 6</a></li>
+<li><a>season 7</a></li>
+<li><a>season 8</a></li>
+</ul>
+</li>
+<li STYLE="font-family:Vivaldi;color:red;font-size:40px;border:1px solid gray;border-radius:10px; width:130" align="left">
+<a>contacts</a></li>
+</ul>
+</div>
+
+<img src="1.jpg" alt="Vampires" width="1230" STYLE="BORDER:2px solid GREY; BORDER-RADIUS:10PX">
+<p style="margin-top:30px; font-family:Algerian; font-size:25; color:#B4B4B4; margin-left:20px; margin-right:20px">
+The Vampire Diaries is an American supernatural drama television series 
+developed by Kevin Williamson and Julie Plec, based on the 
+popular book series of the same name written by L. J.Smith.
+The series premiered on The CW on September
+10, 2009, and concluded on March 10, 2017, airing 171 episodes over eight seasons.
+</p>
+<h2 align="center";>
+Series Overview
+</h2>
+<p style="margin-top:30px; font-family:Algerian; font-size:25; color:#B4B4B4; margin-left:20px; margin-right:20px;">
+The series is set in the fictional town of Mystic Falls, Virginia,
+a town charged with supernatural history since its settlement
+of migrants from New England in the late 19th century.
+It follows the life of Elena Gilbert (Nina Dobrev),
+a teenage girl who has just lost both parents in a car accident,
+as she falls in love with a 162-year-old vampire named Stefan Salvatore (Paul Wesley).
+Their relationship becomes increasingly complicated as Stefan's mysterious older brother Damon Salvatore (Ian Somerhalder) returns,
+with a plan to bring back their past lover Katherine Pierce, 
+a vampire who looks exactly like Elena. 
+Although Damon is initially the villain and harbors a grudge against his brother for forcing him to become a vampire,
+he later reconciles with Stefan and falls in love with Elena, creating a love triangle among the three.
+Both brothers protect Elena as they face various villains and threats to their town, 
+including Katherine. The brothers' history and the town's mythology are revealed through flashbacks as the series goes on.
+Additional storylines revolve around the other inhabitants of the town, 
+most notably Elena's younger brother Jeremy Gilbert (Steven R. McQueen),
+her best friends Bonnie Bennett, (Kat Graham), and Caroline Forbes (Candice King),
+their mutual friends Tyler Lockwood (Michael Trevino), and Matt Donovan (Zach Roerig),
+and their history teacher, vampire hunter Alaric Saltzman (Matthew Davis). 
+The town's politics are orchestrated by descendants of the original founding families, all comprising a "Founders' Council."
+The founding families of Mystic Falls includes the Salvatores, the Gilberts, the Fells, the Forbes, and the Lockwoods.
+They guard the town mainly from vampires,
+although there are many more supernatural threats such as werewolves, witches, hybrids, ghosts and many more.
+</p>
+<h3 align="center">
+Characters
+</h3>
+<h4 align="left">
+Ian Somerhalder as Damon
+</h4>
+<img SRC="4.jpg" alt="Ian Somerhalder" align="right" width="400" height="450">
+<p style="margin-top:30px; font-family:Algerian; font-size:25; color:#B4B4B4; margin-left:20px; margin-right:20px;">
+ the malevolent vampire brother who initially served as the show's anti-hero. 
+ He is mostly thought of as selfish and manipulative, but later on in the series, 
+ he begins to display a more caring side. Though his love for Elena is initially 
+one-sided, she begins to develop feelings for him as they work together to save 
+Stefan after he's given in to his ripper side. They begin dating in season 4, 
+and continue to date (with some breakups along the way) until Elena is put into
+ her deep sleep at the end of season 6. Damon is extremely close with Stefan,
+ but also has a close relationship with Bonnie, despite the fact that they hated
+ each other for the first 5 seasons of the series. Throughout seasons 6 and 7,
+their relationship has developed into a deeper bond, with Damon later confirming Bonnie is his best friend.
+
+
+</p>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
